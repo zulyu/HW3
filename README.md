@@ -9,11 +9,11 @@ The rise of Python as a dominant programming language is a testament to its vers
 ***
 ## Questions
 
-1). How did Python’s design philosophy contribute to its adoption in data science and analytics, especially compared to other programming languages?
-2) What were the initial challenges Python faced in its development, and how did introducing libraries like NumPy address these challenges?
-3) How did the introduction of libraries like NumPy specifically enhance Python's capabilities in data analysis compared to other programming languages?
-4) What were the specific features of NumPy that made it particularly well-suited for numerical computations, and how did it integrate with Python’s existing ecosystem?
-5) What role did the Python Package Index (PyPI) play in the growth of Python’s library ecosystem, and how did it influence the adoption of libraries like NumPy?
+1). How did Python’s design philosophy contribute to its adoption in data science and analytics, especially compared to other programming languages? <br>
+2) What were the initial challenges Python faced in its development, and how did introducing libraries like NumPy address these challenges? <br>
+3) How did the introduction of libraries like NumPy specifically enhance Python's capabilities in data analysis compared to other programming languages? <br>
+4) What were the specific features of NumPy that made it particularly well-suited for numerical computations, and how did it integrate with Python’s existing ecosystem? <br>
+5) What role did the Python Package Index (PyPI) play in the growth of Python’s library ecosystem, and how did it influence the adoption of libraries like NumPy? <br>
 
 ***
 ## Conversation 
