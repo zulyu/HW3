@@ -3,7 +3,7 @@
 *** 
 ## Overview ~ The Evolution of Python and its Role in Data Science
 
-Python has come a long way since its inception in the late 1980s, becoming one of the most widely-used programming languages in various domains, particularly data science and machine learning. Its evolution is a testament to its versatility, readability, and the continuous support of a dedicated open-source community. This review explores Python’s journey, its design philosophy, and the impact of libraries such as NumPy, which revolutionized its utility in data analysis.
+Python has come a long way since its inception in the late 1980s, becoming one of the most widely-used programming languages in various domains, particularly data science and machine learning. Its evolution is a testament to its versatility, readability, and the continuous support of a dedicated open-source community. This review for my programming languages class explores Python’s journey, its design philosophy, and the impact of libraries such as NumPy, which revolutionized its utility in data analysis. 
 
 ---
 ## Relevant Concepts: 
@@ -63,6 +63,8 @@ PyPI also encouraged community contributions, enabling developers to continuousl
 Python’s evolution from its inception in the late 1980s to its current status as a leading programming language reflects its adaptability and robust design philosophy. Its emphasis on readability, versatility, and an active community has significantly contributed to its widespread adoption across various domains, including data science and analytics. The introduction of libraries like NumPy marked a turning point, addressing initial performance issues and expanding Python’s capabilities in numerical computations. NumPy’s efficient array operations, advanced mathematical functions, and seamless integration with Python’s ecosystem transformed Python into a powerful tool for data analysis, setting it apart from other languages.
 
 The role of the Python Package Index (PyPI) has been pivotal in this growth, providing a central repository that facilitates the distribution and management of Python libraries. This accessibility encouraged the rapid development and adoption of essential tools like NumPy, further entrenching Python’s position in the scientific computing landscape. As Python continues to evolve, its foundational principles and the supportive ecosystem of libraries and communities will likely drive its ongoing success and innovation in data roles and beyond.
+
+This exploration was truly insightful into how LLMs are able to be used to break down a complicated topic, such as what it takes for a programming language to be so successful and adopted by many for a specific specialty- such as data science, into digestible and concise points. I like to think of Chat-GPT as a somewhat hallucinatory yet detailed textbook.
 
 ---
 ## References
