@@ -1,6 +1,5 @@
 # Homework 3 - A conversation with Chat-GPT-4
-###### Name: Zuleyka Urieta <br>
-###### Discord Handle: zulyyy9639 <br>
+###### Name: Zuleyka Urieta (Discord: zulyyy9639)
 *** 
 ## Overview
 
