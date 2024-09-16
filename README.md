@@ -8,6 +8,12 @@ For this assignment, I decided to explore Python's journey from its commencement
 The rise of Python as a dominant programming language is a testament to its versatility and user-friendly design. Since its inception in the late 1980s, Python has evolved significantly, shaping various domains from web development to scientific computing. A pivotal moment in its history was the introduction of libraries like NumPy, which revolutionized data roles and analytics by providing powerful tools for numerical computation. 
 
 ---
+## Relevant Concepts: 
+1. [Numpy](https://numpy.org/doc/stable/user/whatisnumpy.html)
+2. [Python for ML](https://www.turing.com/kb/why-python-is-widely-used-for-machine-learning)
+3. [Python Package Index](https://en.wikipedia.org/wiki/Python_Package_Index#:~:text=The%20Python%20Package%20Index%2C%20abbreviated,the%20CRAN%20repository%20for%20R.)
+
+---
 ## Questions
 
 1) How did Python’s design philosophy contribute to its adoption in data science and analytics, especially compared to other programming languages? <br>
