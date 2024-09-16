@@ -3,7 +3,7 @@
 *** 
 ## Overview ~ The Evolution of Python and its Role in Data Science
 
-Python has come a long way since its inception in the late 1980s, becoming one of the most widely-used programming languages in various domains, particularly data science and machine learning. Its evolution is a testament to its versatility, readability, and the continuous support of a dedicated open-source community. This review explores Python’s journey, its design philosophy, key milestones, and the impact of libraries such as NumPy, which revolutionized its utility in data analysis.
+Python has come a long way since its inception in the late 1980s, becoming one of the most widely-used programming languages in various domains, particularly data science and machine learning. Its evolution is a testament to its versatility, readability, and the continuous support of a dedicated open-source community. This review explores Python’s journey, its design philosophy, and the impact of libraries such as NumPy, which revolutionized its utility in data analysis.
 
 ---
 ## Relevant Concepts: 
