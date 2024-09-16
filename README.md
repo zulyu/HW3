@@ -1,6 +1,6 @@
 # Homework 3 - A conversation with Chat-GPT-4
-Name: Zuleyka Urieta 
-Discord Handle: zulyyy9639
+###### Name: Zuleyka Urieta <br>
+###### Discord Handle: zulyyy9639 <br>
 *** 
 ## Overview
 
@@ -19,7 +19,7 @@ The rise of Python as a dominant programming language is a testament to its vers
 
 ---
 ## Conversation 
-### <em> Question #1) How did Python’s design philosophy contribute to its adoption in data science and analytics, especially in comparison to other programming languages?
+### <em> Question #1) How did Python’s design philosophy contribute to its adoption in data science and analytics, especially in comparison to other programming languages? </em>
 
 - Readability and Simplicity: Python’s design emphasizes clear and readable code, which lowers the barrier to entry for newcomers and makes it easier to write and maintain complex data analysis scripts. 
 - Versatility: Python’s general-purpose nature allows it to be used across different domains, including data science, without needing to switch languages. This versatility contrasts with languages that are more specialized or rigid.
