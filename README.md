@@ -67,4 +67,5 @@ The role of the Python Package Index (PyPI) has been pivotal in this growth, pro
 ---
 ## References
 1. Oliphant, T. E. (2006). A guide to NumPy. USA: Trelgol Publishing (https://web.mit.edu/dvp/Public/numpybook.pdf)
-3. Harris, C. R., Millman, K. J., van der Walt, S. J., et al. (2020). Array programming with NumPy. Nature, 585(7825), 357–362. https://doi.org/10.1038/s41586-020-2649-2 (https://www.nature.com/articles/s41586-020-2649-2)
+2. Harris, C. R., Millman, K. J., van der Walt, S. J., et al. (2020). Array programming with NumPy. Nature, 585(7825), 357–362. https://doi.org/10.1038/s41586-020-2649-2 (https://www.nature.com/articles/s41586-020-2649-2)
+3. Why data scientists choose Python for Machine Learning and Artificial Intelligence. Snowflake. (n.d.). https://www.snowflake.com/trending/why-data-scientists-choose-python-ml-and-ai/ 
